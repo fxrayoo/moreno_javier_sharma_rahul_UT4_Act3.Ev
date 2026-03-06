@@ -1,18 +1,19 @@
-## Getting Started
+Proyecto Final - Sistema de Personajes de Videojuego
+----------------------------------------------------
+Estructura:
+src:
+app: Aquí se encuentra el Main que es donde lo ejecutaríamos.
+model: Contiene todas las clases
+view: Sería la interfaz
+----------------------------------------------------
+Reparto: 
+JAVIER: 
+-Repositorio GitHub
+-Se encargó de crear la clase abstracta de "Personajes" y subclases.
+-Creo de las 4 clases de héroes específicas (Guerrero, Arquero, Mago, Clérigo) y las capacidades especiales.
+Creo el "Gestor_Juego"
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+RAHUL:
+-Creación del "Main" y la realización de las pruebas de ejecución de todos los personajes.
+-Crear la interfaz y los mensajes por consola.
+-Redacción del "README"
